@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A1A15250-4A2A-41E3-B721-024323B9434F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C387FEF0-8076-4FC8-B363-F549A1BB33F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LandmarksApp/ModelData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "C387FEF0-8076-4FC8-B363-F549A1BB33F0 - a9411fd42821e7c5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for landmarks"
+                  moduleName = "LandmarksApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmadyasser/personal/LandmarksApp/LandmarksApp/ModelData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "C387FEF0-8076-4FC8-B363-F549A1BB33F0 - 2d797aef6e6519bb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LandmarksApp.landmarks.unsafeMutableAddressor : Swift.Array&lt;LandmarksApp.Landmark&gt;"
+                  moduleName = "LandmarksApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmadyasser/personal/LandmarksApp/LandmarksApp/ModelData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
